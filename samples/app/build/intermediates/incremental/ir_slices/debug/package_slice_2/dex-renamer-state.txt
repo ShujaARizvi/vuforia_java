@@ -1,0 +1,4 @@
+#Mon Nov 19 23:13:24 PKT 2018
+base.0=C\:\\Users\\SHUJA\\Desktop\\Final Year Project\\Prototyping\\vuforia_java\\samples\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex
