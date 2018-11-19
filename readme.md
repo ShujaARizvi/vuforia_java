@@ -1,4 +1,4 @@
-Vuforia Augmented Reality SDK Release Package
+'''Vuforia Augmented Reality SDK Release Package
 ==============================================
 
 
