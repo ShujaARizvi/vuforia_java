@@ -194,7 +194,7 @@ public class ModelTargets extends Activity implements SampleApplicationControl,
     // Load specific textures from the APK, which we will later use for rendering.
     private void loadTextures()
     {
-        mTextures.add(Texture.loadTextureFromApk("ModelTargets/Diffuse.jpg", getAssets()));
+        mTextures.add(Texture.loadTextureFromApk("ModelTarget1/VC.jpg", getAssets()));
     }
     
 
@@ -328,7 +328,7 @@ public class ModelTargets extends Activity implements SampleApplicationControl,
             mDataset = objectTracker.createDataSet();
         
         return  mDataset != null
-            && mDataset.load("ModelTargets/VuforiaMars_ModelTarget.xml", STORAGE_TYPE.STORAGE_APPRESOURCE)
+            && mDataset.load("ModelTarget1/Laptop.xml", STORAGE_TYPE.STORAGE_APPRESOURCE)
             && objectTracker.activateDataSet(mDataset);
     }
     
